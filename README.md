@@ -1,25 +1,26 @@
 ## Hi there, [ArmandoFilho483](https://minhalandingpage) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-armandopdff@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:armandopdff@gmail.com "Connect via Email")
-[![Linkedin Badge](https://img.shields.io/badge/-Armando%20Patricio-0072b1?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/samujjwaal/](https://www.linkedin.com/in/armando-patr%C3%ADcio-de-freitas-filho-8bb42a191/) "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-Armando%20Patricio-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/armando-patricio "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/-@ArmandoFilho-0088CC?style=flat&logo=Telegram&logoColor=white)](https://t.me/ArmandoFilho "Contact on Telegram")
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=Whatsapp&logoColor=white)](https://wa.me/5585991584767)
 [![Twitter Badge](https://img.shields.io/badge/-@armandopatricio-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.messenger.com/t/100002905807098 "Connect on Facebook")
 
-I am a 2nd-year Graduate Student at The University Estácio at Fortaleza, who is passionate about Data Science :bar_chart:, JavaScript programming, and open source :octocat:. I love to learn and contribute in any and every possible way.
-
-- 📭 [Reach out](#hi-there-samujjwaal-here) for help with MS CS in US, Data Science, Machine Learning, Python, and Scala
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between
+I'm a front-end developer and digital university student in Fortaleza. I am improving myself to migrate to the technology sector. I'm passionate about code and open source :octocat:. I love learning and contributing in any way possible.
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
-- 👾 Fun fact: Everything that has been or could be written/said already exists in the [Library of Babel](https://libraryofbabel.info/)
+- 📭 [Contact us] (hi, ArmandoFilho483 here) for help with landingpages, websites, web systems and consultancy.
+- :Man Student: [Languages] what domino <br>
+[![HTML](<img src="" alt="">)](https://www.w3.org/html/)
+[![CSS](<img src="" alt="">)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](<img src="" alt="">)](https://www.javascript.com/)
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
 
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ArmandoFilho483)
   [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-  ----
+  
   ![Profile Views](https://komarev.com/ghpvc/?username=ArmandoFilho483&color=blue)
   ----
   
@@ -33,6 +34,6 @@ I am a 2nd-year Graduate Student at The University Estácio at Fortaleza, who is
 
 ----
 
-</details>
+</details><br>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/ArmandoFilho483/ArmandoFilho483/main?label=Last%20updated&style=flat)](https://github.com/ArmandoFilho483/ArmandoFilho483/commits)
