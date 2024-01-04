@@ -11,9 +11,9 @@ I'm a front-end developer and digital university student in Fortaleza. I am impr
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 📭 [Contact us] (hi, ArmandoFilho483 here) for help with landingpages, websites, web systems and consultancy.
 - :Man Student: [Languages] what domino <br>
-[![HTML](<img src="" alt="">)](https://www.w3.org/html/)
-[![CSS](<img src="" alt="">)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript](<img src="" alt="">)](https://www.javascript.com/)
+[![HTML](<img src="https://github.com/ArmandoFilho483/ArmandoFilho483/blob/main/icons/icons8-html-5.svg" alt="icon html">)](https://www.w3.org/html/)
+[![CSS](<img src="https://github.com/ArmandoFilho483/ArmandoFilho483/blob/main/icons/icons8-css3.svg" alt="icon css">)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript](<img src="https://github.com/ArmandoFilho483/ArmandoFilho483/blob/main/icons/icons8-javascript.svg" alt="icon javascript">)](https://www.javascript.com/)
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
