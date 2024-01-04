@@ -7,10 +7,12 @@
 [![Twitter Badge](https://img.shields.io/badge/-@armandopatricio-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com "Follow on Twitter")
 [![Messenger Badge](https://img.shields.io/badge/-Messenger-0078FF?style=flat&logo=Messenger&logoColor=white)](https://www.messenger.com/t/100002905807098 "Connect on Facebook")
 
-I'm a front-end developer and digital university student in Fortaleza. I am improving myself to migrate to the technology sector. I'm passionate about code and open source :octocat:. I love learning and contributing in any way possible.
+>[!NOTE]
+>I'm a front-end developer and [Digital College](https://digitalcollege.com.br) student in Fortaleza. I am improving myself to migrate to the technology sector. I'm >passionate about code and open source :octocat:. I love learning and contributing in any way possible.
+
 - 😄 Pronouns: [He/Him](https://www.mypronouns.org/he-him)
 - 📭 [Contact us] (hi, ArmandoFilho483 here) for help with landingpages, websites, web systems and consultancy.
-- 👨‍🎓 [Languages](#) what domino <br>
+- 👨‍🎓 [Languages](#) what domino: <br>
 [![HTML](https://github.com/ArmandoFilho483/ArmandoFilho483/blob/main/icons/icons8-html-5.svg)](https://www.w3.org/html/)
 [![CSS](https://github.com/ArmandoFilho483/ArmandoFilho483/blob/main/icons/icons8-css3.svg)](https://www.w3.org/Style/CSS/Overview.en.html)
 [![JavaScript](https://github.com/ArmandoFilho483/ArmandoFilho483/blob/main/icons/icons8-javascript.svg)](https://www.javascript.com/)
