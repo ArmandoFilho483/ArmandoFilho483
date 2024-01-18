@@ -23,8 +23,8 @@ I'm a front-end developer and [Digital College](https://digitalcollege.com.br) s
 
 <div style="display: flex; justify-content: center; gap: 20px">
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&theme=transparent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=none&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=transparent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=none&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&theme=transparent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=transparent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
 
 </div>
 
