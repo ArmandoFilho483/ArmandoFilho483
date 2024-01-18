@@ -23,10 +23,10 @@ I'm a front-end developer and [Digital College](https://digitalcollege.com.br) s
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: start; gap: 20px">
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&theme=default#gh-dark-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&theme=default#gh-light-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=default#gh-dark-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=default#gh-light-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&show_icons=true&theme=default#gh-dark-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&show_icons=true&theme=default#gh-light-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&show_icons=true&theme=default#gh-dark-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&show_icons=true&theme=default#gh-light-mode-only&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=0d1117&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
 
 </div>
 
