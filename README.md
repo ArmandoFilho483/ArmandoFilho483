@@ -1,4 +1,4 @@
-<section style="background-color: #6aa99e; whidth: 100%; height: 100%">
+
 
 ## Hi there, [ArmandoFilho483](https://minhalandingpage) here 👋🏼👨🏻‍💻
 
@@ -21,10 +21,10 @@ I'm a front-end developer and [Digital College](https://digitalcollege.com.br) s
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
 
-<div style="display: flex; justify-content: center">
+<div style="display: flex; justify-content: center; gap: 20px">
 
-  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&theme=transparent&card_width=350px&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=6aa99e&border_color=6aa99e&hide_border=false)](https://github.com/ArmandoFilho483)
-  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=transparent&card_width=350px&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=6aa99e&border_color=6aa99e&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&theme=transparent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=none&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
+  [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=transparent&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fff&bg_color=none&border_color=0d1117&hide_border=false)](https://github.com/ArmandoFilho483)
 
 </div>
 
@@ -47,4 +47,3 @@ I'm a front-end developer and [Digital College](https://digitalcollege.com.br) s
 
 [![Profile last updated](https://img.shields.io/github/last-commit/ArmandoFilho483/ArmandoFilho483/main?label=Last%20updated&style=flat)](https://github.com/ArmandoFilho483/ArmandoFilho483/commits)
 
-</section>
