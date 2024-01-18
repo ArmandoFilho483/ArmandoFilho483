@@ -1,3 +1,4 @@
+<body style="background-color: #6aa99e">
 ## Hi there, [ArmandoFilho483](https://minhalandingpage) here 👋🏼👨🏻‍💻
 
 [![Gmail Badge](https://img.shields.io/badge/-armandopdff@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:armandopdff@gmail.com "Connect via Email")
@@ -18,10 +19,10 @@ I'm a front-end developer and [Digital College](https://digitalcollege.com.br) s
 
 <details>
   <summary>Some of my Github Public Stats :computer:</summary>
-
+  <div style="border=none;">
   [![My Github Stats](https://github-readme-stats.vercel.app/api?username=ArmandoFilho483&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/ArmandoFilho483)
   [![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ArmandoFilho483&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-  
+  </div>
   ![Profile Views](https://komarev.com/ghpvc/?username=ArmandoFilho483&color=blue)
   ----
   
@@ -38,3 +39,5 @@ I'm a front-end developer and [Digital College](https://digitalcollege.com.br) s
 </details><br>
 
 [![Profile last updated](https://img.shields.io/github/last-commit/ArmandoFilho483/ArmandoFilho483/main?label=Last%20updated&style=flat)](https://github.com/ArmandoFilho483/ArmandoFilho483/commits)
+
+</body>
